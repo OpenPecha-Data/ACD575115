@@ -1,0 +1,25 @@
+segment_sources:
+  P67726B61:
+    type: origin_type
+    relation: translation
+    language: en
+  P95B1A808:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2b73bfce79004ee8a9d92bc2c6361896:
+    P67726B61: 346eb46838d34560bf057497c5253ec3
+    P95B1A808: 61a44c60412e4bf0aeb5e72441262fcd
+  79ed006914e2447092f445ee6f54556f:
+    P67726B61: 0b994085e3ea419abd7755194d6e3e9f
+    P95B1A808: 0ded8bc166f140ecaf2a05c30f453939
+  31406f0097ce49e8a7ec494dc51909f8:
+    P67726B61: 03032d92913044faba3cb958780b5425
+    P95B1A808: 2b3ad003d6ad4ad5adc3069dd4f474e1
+  f59214260bf7422bb952f040a949313c:
+    P67726B61: 31504e63ea0e4b3d958e1dad81d9d767
+    P95B1A808: 16fde95d4252437493e17b321055a42b
+  5dcf4cb361384c66bd0768476ee411ec:
+    P67726B61: 04825aee813949bdb8b129157e717e78
+    P95B1A808: 5191c2f3d9f846bcbfde98affb1dea7b
